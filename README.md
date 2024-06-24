@@ -4,5 +4,5 @@ This is a simple Python application which helps users easily manage and organize
 
 ## Dependencies
 The application depends on the following set of python libraries.
-1. 'PyQt' used to for the GUI 
-2. 'os' used for all the file management aspects
+1. `PyQt` used to for the GUI 
+2. `os` used for all the file management aspects
